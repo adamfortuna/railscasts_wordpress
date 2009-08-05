@@ -1,0 +1,29 @@
+About
+=====
+
+There are a lot of Wordpress plugins out there that do code highlighting. It would be awesome if
+there were Railscast themes for all of them. As I use any plugins I'll create a theme for them,
+but if you use a different plugin, or have an improvement, feel free to do fork and do a pull 
+request.
+
+
+
+Support
+=======
+
+Every Wordpress plugin for code highlighting is a little different. Here's the plugins 
+that are available at this time.
+
+
+railscasts-syntaxhighlighter-plus.css
+SyntaxHighlighter Plus
+http://wordpress.org/extend/plugins/syntaxhighlighter-plus
+
+
+
+Credits, Thanks
+===============
+
+This is based on the amazing Textmate theme by Ryan Bates, available here: http://railscasts.com/about
+It's also usually based on another dark theme. So thanks to everyone who makes Wordpress plugins
+for code highlighting.
